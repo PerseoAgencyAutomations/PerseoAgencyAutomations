@@ -16,7 +16,16 @@ Teste com 40 negócios reais: 39 certos, nenhum lead sem evidência. Uma injeç�
 A anotação da call de descoberta vira um business case de uma página: horas liberadas, economia, preço e payback. A IA só encaixa as respostas no questionário. Toda conta roda em código.
 Teste com 12 calls fictícias: conta igual à referência em Python nas 12, e 3.248 de 3.248 na checagem de paridade.
 
-Também: [Perseo-Web](https://github.com/Eternorms/Perseo-Web), meu site em Next.js, no ar em [perseo-web.vercel.app](https://perseo-web.vercel.app).
+Também:
+- [doc-extract-gate](https://github.com/PerseoAgencyAutomations/doc-extract-gate): extração de nota fiscal em n8n que para e pergunta a uma pessoa o campo que a IA não leu com certeza.
+- [ad-teardown-pipeline](https://github.com/PerseoAgencyAutomations/ad-teardown-pipeline): anúncio de concorrente lido por modelo de visão e devolvido com nota, em n8n.
+- [btc-snapshot](https://github.com/PerseoAgencyAutomations/btc-snapshot): leitura diária do Bitcoin em Python puro, sem dependência.
+- [Perseo-Web](https://github.com/Eternorms/Perseo-Web), meu site em Next.js, no ar em [perseo-web.vercel.app](https://perseo-web.vercel.app).
+
+## Vídeos
+
+- [jev + n8n: turn a probability into a decision](https://www.youtube.com/watch?v=0hxoySIlnyw)
+- [The presenter is not real. An n8n automation made this video.](https://www.youtube.com/watch?v=VmfDzkwWi5k)
 
 ## Como trabalho
 
