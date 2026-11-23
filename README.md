@@ -20,7 +20,6 @@ Também:
 - [doc-extract-gate](https://github.com/PerseoAgencyAutomations/doc-extract-gate): extração de nota fiscal em n8n que para e pergunta a uma pessoa o campo que a IA não leu com certeza.
 - [ad-teardown-pipeline](https://github.com/PerseoAgencyAutomations/ad-teardown-pipeline): anúncio de concorrente lido por modelo de visão e devolvido com nota, em n8n.
 - [btc-snapshot](https://github.com/PerseoAgencyAutomations/btc-snapshot): leitura diária do Bitcoin em Python puro, sem dependência.
-- [Perseo-Web](https://github.com/Eternorms/Perseo-Web), meu site em Next.js, no ar em [perseo-web.vercel.app](https://perseo-web.vercel.app).
 
 ## Vídeos
 
@@ -29,7 +28,7 @@ Também:
 
 ## Como trabalho
 
-- Antes de construir, mapeio o processo e estimo as horas liberadas pelo método PAT da UiPath. No business case, a conta deu "não vale automatizar" pra anotação livre, então mudei a entrada antes de construir.
+- Antes de construir, mapeio o processo e estimo quantas horas a automação libera. No business case, a conta deu "não vale automatizar" pra anotação livre, então mudei a entrada antes de construir.
 - Código onde a regra é fixa, IA onde o texto não tem formato, aprovação humana onde o erro sai caro.
 
 ## Stack
