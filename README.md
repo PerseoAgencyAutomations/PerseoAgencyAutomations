@@ -23,8 +23,8 @@ Também:
 
 ## Vídeos
 
-- [jev + n8n: turn a probability into a decision](https://www.youtube.com/watch?v=0hxoySIlnyw)
-- [The presenter is not real. An n8n automation made this video.](https://www.youtube.com/watch?v=VmfDzkwWi5k)
+- [jev e n8n: uma probabilidade vira decisão](https://www.youtube.com/watch?v=0hxoySIlnyw) (vídeo em inglês)
+- [O apresentador não é real: uma automação no n8n fez este vídeo](https://www.youtube.com/watch?v=VmfDzkwWi5k) (vídeo em inglês)
 
 ## Como trabalho
 
@@ -40,5 +40,3 @@ n8n · Python · SQL (PostgreSQL, Supabase) · JavaScript · Claude e Claude Cod
 Bacharelado em Ciência de Dados, Univesp, em andamento (conclusão prevista em 2027). SP, Brasil, GMT-3.
 
 [LinkedIn](https://www.linkedin.com/in/antonio-ramos-731934432/)
-
-*In English:* AI automation engineer (n8n, Python, SQL, Claude). Each repo ships with a fixed test set and failure-path tests, and each README ends with a short English summary.
