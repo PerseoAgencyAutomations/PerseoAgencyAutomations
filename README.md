@@ -28,8 +28,7 @@ Também:
 
 ## Como trabalho
 
-- Antes de construir, mapeio o processo e estimo quantas horas a automação libera. No business case, a conta deu "não vale automatizar" pra anotação livre, então mudei a entrada antes de construir.
-- Código onde a regra é fixa, IA onde o texto não tem formato, aprovação humana onde o erro sai caro.
+Antes de construir, desenho o processo e calculo quantas horas a automação vai economizar. Na construção, uso código quando a regra é fixa, IA quando o texto não tem formato e a aprovação de uma pessoa quando um erro sai caro.
 
 ## Stack
 
